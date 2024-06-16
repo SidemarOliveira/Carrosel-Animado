@@ -13,5 +13,6 @@
 <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
 <br>
 <br>
+
 <p> Confira o projeto: https://carroselanimado.netlify.app </p>
 <img src= https://github.com/SidemarOliveira/Carrosel-Animado/blob/main/assets/imagem%20monitor.png?raw=true />
